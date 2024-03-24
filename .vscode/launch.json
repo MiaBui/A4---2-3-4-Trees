@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/thienhuongbuinguyen/Desktop/Study/Winter 2024/Algorithm/A4 - 2-3-4 Trees",
+      "program": "/Users/thienhuongbuinguyen/Desktop/Study/Winter 2024/Algorithm/A4 - 2-3-4 Trees/build/Debug/outDebug"
+    }
+  ]
+}
